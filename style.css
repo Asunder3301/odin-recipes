@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+ul {
+    background-color: yellow;
+    text-align: center;
+    border: 10px;
+    border-color: brown;
+}
