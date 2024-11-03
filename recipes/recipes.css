@@ -6,3 +6,12 @@ img {
     margin: 0px auto;
 }
 
+.txt {
+    background-color: yellow;
+    color: brown;
+}
+
+.head {
+    color: brown;
+    font-style: italic;
+}
